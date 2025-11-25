@@ -30,6 +30,21 @@ Este trabalho tem como finalidade aplicar conceitos fundamentais de bancos de da
 
 ---
 
+## Instruções de Execução
+
+Esta seção descreve passo a passo como executar o projeto DoceSmart utilizando MySQL (via Workbench Wampserver).
+
+### 1. Pré-requisitos
+
+- Wampserver
+- MySQL Workbench
+
+### 2. Ordem recomendada para execução dos arquivos
+Os scripts foram organizados em uma sequência lógica. Execute-os na seguinte ordem:
+- 01_create_tables.sql
+- 02_insert_data.sql
+- 03_queries.sql
+- 04_updates_deletes.sql
 
 ---
 
